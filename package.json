@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "deasync": "^0.1.28",
+    "drivelist": "^11.1.0"
+  }
+}
