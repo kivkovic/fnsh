@@ -562,7 +562,7 @@ try {
     //process.stdin.setRawMode(true);
 
     let history_pointer = -1;
-    let history_list;
+    let history_list = [];
 
     process.stdin.on('keypress', function (letter, key) {
 
